@@ -11,6 +11,11 @@ body
    align-items: center;
 }
 
+.logo img
+{
+   width: 70%;
+}
+
 .login 
 {
    width: 100%;
