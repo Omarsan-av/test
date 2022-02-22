@@ -1,7 +1,12 @@
+
+.logo 
+{
+   margin-bottom: 4rem;
+}
+
 .logo img 
 {
    width: 45%;
-   margin-bottom: 4rem;
 }
 
 .login 
