@@ -11,6 +11,11 @@ body
    align-items: center;
 }
 
+.logo 
+{
+   margin-bottom: 5rem;
+}
+
 .logo img
 {
    width: 70%;
@@ -19,6 +24,7 @@ body
 .login 
 {
    width: 100%;
+   height: 85%;
 }
 
 .help > a 
